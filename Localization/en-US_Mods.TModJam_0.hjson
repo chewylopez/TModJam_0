@@ -1,0 +1,16 @@
+Items: {
+	Zombie_Blood_Vial: {
+		DisplayName: Zombie_ Blood_ Vial
+		Tooltip: ""
+	}
+
+	Mutant_Cactus_Spine: {
+		DisplayName: Mutant_ Cactus_ Spine
+		Tooltip: ""
+	}
+
+	Queen_Bee_Poison_Gland: {
+		DisplayName: Queen_ Bee_ Poison_ Gland
+		Tooltip: ""
+	}
+}
