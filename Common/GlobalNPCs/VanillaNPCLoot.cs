@@ -7,8 +7,8 @@ using Terraria;
 using Terraria.GameContent.ItemDropRules;
 using Terraria.ID;
 using Terraria.ModLoader;
-using TModJam_0.Content.Items;
 using TModJam_0.Content.Items.accessories;
+using TModJam_0.Content.Items.base_drops;
 
 
 namespace TModJam_0.Common.GlobalNPCs
@@ -37,13 +37,11 @@ namespace TModJam_0.Common.GlobalNPCs
 
         }
 
-        public static bool IsWearingAccessory(Player player, int accessoryItemID)
+        public static bool IsWearingAccessory(Player player, int accessory)
         {
-            // Accessory slots are in armor[3] to armor[8] (vanilla)
-            // armor[9] to armor[13] are vanity accessories (non-functional)
-            for (int i = 3; i < 10; i++) // Include up to armor[9] for modded slots
+            for (int i = 3; i < 10; i++)
             {
-                if (player.armor[i] != null && !player.armor[i].IsAir && player.armor[i].type == accessoryItemID)
+                if (player.armor[i].type == accessory)
                 {
                     return true;
                 }

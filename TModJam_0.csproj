@@ -11,8 +11,7 @@
 	  <None Remove="Content\Buffs\Bound_Soul.png" />
 	  <None Remove="Content\Buffs\cactus_delirium.png" />
 	  <None Remove="Content\Buffs\corrupted.png" />
-	  <None Remove="Content\Buffs\Demonic_Sharknado.png" />
-	  <None Remove="Content\Buffs\Devil's_Deal.png" />
+	  <None Remove="Content\Buffs\Devils_Deal.png" />
 	  <None Remove="Content\Buffs\Draught_Of_Lead.png" />
 	  <None Remove="Content\Buffs\Dryadification_Solution.png" />
 	  <None Remove="Content\Buffs\Exotic_Infection.png" />
@@ -28,7 +27,7 @@
 	  <None Remove="Content\Buffs\Jelly_Inoculation.png" />
 	  <None Remove="Content\Buffs\Mushroom_Infection.png" />
 	  <None Remove="Content\Buffs\Oiled_Up.png" />
-	  <None Remove="Content\Buffs\Pharaoh's_Curse.png" />
+	  <None Remove="Content\Buffs\Pharaohs_Curse.png" />
 	  <None Remove="Content\Buffs\Possessed_Conduit.png" />
 	  <None Remove="Content\Buffs\red_plague.png" />
 	  <None Remove="Content\Buffs\Shimmer_Virus.png" />
@@ -38,6 +37,7 @@
 	  <None Remove="Content\Buffs\Undead_Parasite.png" />
 	  <None Remove="Content\Buffs\Unstable_Fusion.png" />
 	  <None Remove="Content\Buffs\vine_curse.png" />
+	  <None Remove="Content\Items\Tiles\Liquid_Refinery.png" />
 	  <None Remove="Content\NPCs\Mad_Alchemist.png" />
 	</ItemGroup>
 
