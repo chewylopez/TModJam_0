@@ -29,10 +29,15 @@ namespace TModJam_0.Content
             test3.AddTile(TileID.WorkBenches);
             test3.Register();
 
-            Recipe test4 = Recipe.Create(ModContent.ItemType<Content.Items.Queen_Bee_Poison_Gland>());
+            Recipe test4 = Recipe.Create(ModContent.ItemType<Content.Items.Bone_Marrow_Sample>());
             test4.AddIngredient(ItemID.DirtBlock);
             test4.AddTile(TileID.WorkBenches);
             test4.Register();
+
+            Recipe test5 = Recipe.Create(ModContent.ItemType<Content.Items.Writhing_Mass>());
+            test5.AddIngredient(ItemID.Wood);
+            test5.AddTile(TileID.WorkBenches);
+            test5.Register();
 
         }
 

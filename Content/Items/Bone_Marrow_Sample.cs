@@ -24,6 +24,11 @@ namespace TModJam_0.Content.Items
             Item.useAnimation = 15;
             Item.useTime = 15;
             Item.rare = ItemRarityID.Green;
+
+            Item.consumable = false;
+            Item.value = Item.buyPrice(gold: 1);
+            Item.buffType = ModContent.BuffType<Content.Buffs.Increased_Bone_Density>();
+            Item.buffTime = 1200;
         }
     }
 }

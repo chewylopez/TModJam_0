@@ -13,4 +13,73 @@ Items: {
 		DisplayName: Queen_ Bee_ Poison_ Gland
 		Tooltip: ""
 	}
+
+	Bone_Marrow_Sample: {
+		DisplayName: Bone_ Marrow_ Sample
+		Tooltip: ""
+	}
+
+	Bottle_Of_Shimmer: {
+		DisplayName: Bottle_ Of_ Shimmer
+		Tooltip: ""
+	}
+
+	Demon_Horn: {
+		DisplayName: Demon_ Horn
+		Tooltip: ""
+	}
+
+	Glowing_Parasite: {
+		DisplayName: Glowing_ Parasite
+		Tooltip: ""
+	}
+
+	Jellyfish_Membrane: {
+		DisplayName: Jellyfish_ Membrane
+		Tooltip: ""
+	}
+
+	Liquefied_Gastropod: {
+		DisplayName: Liquefied_ Gastropod
+		Tooltip: ""
+	}
+
+	Cursed_Motor_Oil: {
+		DisplayName: Cursed_ Motor_ Oil
+		Tooltip: ""
+	}
+
+	Lihzahrd_Snake_Toxin: {
+		DisplayName: Lihzahrd_ Snake_ Toxin
+		Tooltip: ""
+	}
+
+	Permafrost_Crystal: {
+		DisplayName: Permafrost_ Crystal
+		Tooltip: ""
+	}
+
+	Plantera_Muscle_Fiber: {
+		DisplayName: Plantera_ Muscle_ Fiber
+		Tooltip: ""
+	}
+
+	Writhing_Mass: {
+		DisplayName: Writhing_ Mass
+		Tooltip: ""
+	}
 }
+
+Buffs: {
+	Increased_Bone_Density: {
+		DisplayName: Increased_ Bone_ Density
+		Description: Mods.TModJam_0.Buffs.Increased_Bone_Density.Description
+	}
+
+	Shimmer_Virus: {
+		DisplayName: Shimmer_ Virus
+		Description: Mods.TModJam_0.Buffs.Shimmer_Virus.Description
+	}
+}
+
+NPCs.Mad_Alchemist.DisplayName: Mad_ Alchemist
